@@ -1,0 +1,11 @@
+{
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single",
+			"trailingCommas": "none"
+		}
+	},
+	"files": {
+		"ignore": ["dist"]
+	}
+}
