@@ -5,7 +5,8 @@
 			"trailingCommas": "none"
 		}
 	},
-	"files": {
-		"ignore": ["dist"]
+	"vcs": {
+		"enabled": true,
+		"clientKind": "git"
 	}
 }
